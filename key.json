@@ -30,8 +30,17 @@
     "activate_date": "2025-09-24",
     "days": 2,
     "device_id": "M1oLfa23EB15q6fiMx84"
+  },
+  {
+    "key": "FFDD-FDFD-GKDS-GKLL",
+    "is_active": true,
+    "expiry_date": "2025-09-27",
+    "activate_date": "2025-09-24",
+    "days": 3,
+    "device_id": ""
   }
 ]
+
 
 
 
