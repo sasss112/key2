@@ -9,11 +9,13 @@
     {
         "key": "GKDN-BIDG-BKDN-GFRS",
         "activate_date": "2025-09-24",
-        "expiry_date": "2025-08-24",
-        "days": 0,
-        "is_active": false
+        "expiry_date": "2025-09-26",
+        "days": 2,
+        "is_active": true,
+        "device_id" "gvvx2zZoZ5Ffdr5lVoys"
     }
 ]
+
 
 
 
