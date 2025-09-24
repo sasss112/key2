@@ -1,45 +1,14 @@
 [
   {
-    "key": "ABCD-EFGH-IJKL-MNOP",
-    "is_active": false,
+    "key": "DFDF-EFGH-IJKL-MNOP",
+    "is_active": true,
     "expiry_date": "2025-09-29",
     "activate_date": "2024-09-24",
     "days": 5,
-    "device_id": "zToyvIDvmTZMg7TzijUH"
-  },
-  {
-    "key": "WXYZ-1234-5678-ABCD",
-    "is_active": false,
-    "expiry_date": "2024-09-25",
-    "activate_date": "2024-09-24",
-    "days": 1,
-    "device_id": "ElK24j2E3hTZmGDYYc3x"
-  },
-  {
-    "key": "DDDD-CCCC-FFFF-AAAA",
-    "is_active": true,
-    "expiry_date": "2025-09-27",
-    "activate_date": "2025-09-24",
-    "days": 3,
     "device_id": ""
-  },
-  {
-    "key": "KEYS-TEST-ALLL-TIME",
-    "is_active": true,
-    "expiry_date": "2025-09-27",
-    "activate_date": "2025-09-24",
-    "days": 2,
-    "device_id": "M1oLfa23EB15q6fiMx84"
-  },
-  {
-    "key": "FFDD-FDFD-GKDS-GKLL",
-    "is_active": true,
-    "expiry_date": "2025-09-27",
-    "activate_date": "2025-09-24",
-    "days": 3,
-    "device_id": "a1HF8ZbwnOnEUIWdT9qA"
   }
 ]
+
 
 
 
