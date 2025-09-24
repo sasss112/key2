@@ -5,7 +5,7 @@
         "expiry_date": "2025-10-04",
         "days": 10,
         "is_active": true,
-        "device_id" "none"
+        "device_id": "none"
     },
     {
         "key": "GKDN-BIDG-BKDN-GFRS",
@@ -13,9 +13,10 @@
         "expiry_date": "2025-09-26",
         "days": 2,
         "is_active": true,
-        "device_id" "gvvx2zZoZ5Ffdr5lVoys"
+        "device_id": "gvvx2zZoZ5Ffdr5lVoys"
     }
 ]
+
 
 
 
