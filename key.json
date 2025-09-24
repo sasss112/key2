@@ -1,29 +1,14 @@
 [
   {
-    "key": "DFDF-EFGH-IJKL-MNOP",
+    "key": "GGFD-EFGH-IJKL-MNOP",
     "is_active": true,
     "expiry_date": "2025-09-29",
     "activate_date": "2024-09-24",
     "days": 5,
-    "device_id": "XhfbZ41SnIl8yfwqL9uW"
-  },
-    {
-    "key": "GDHT-BFDF-DFLG-GBGF",
-    "is_active": true,
-    "expiry_date": "2025-09-26",
-    "activate_date": "2024-09-24",
-    "days": 2,
-    "device_id": "yzZR1ZJovnBAsQalz6Tp"
-  },
-    {
-    "key": "BJFF-FDSB-GJFD-SDFD",
-    "is_active": true,
-    "expiry_date": "2025-09-26",
-    "activate_date": "2024-09-24",
-    "days": 2,
     "device_id": "j31hjjbgWyGiOU8sMs2H"
   }
 ]
+
 
 
 
