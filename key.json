@@ -1,30 +1,18 @@
 [
-    {
-        "key": "FDVF-GHDS-GKJV-KFLO",
-        "activate_date": "2025-09-24",
-        "expiry_date": "2025-10-04",
-        "days": 10,
-        "is_active": true,
-        "device_id": "none"
-    },
-    {
-        "key": "GKDN-BIDG-BKDN-GFRS",
-        "activate_date": "2025-09-24",
-        "expiry_date": "2025-09-26",
-        "days": 2,
-        "is_active": true,
-        "device_id": "gvvx2zZoZ5Ffdr5lVoys"
-    }
+  {
+    "key": "ABCD-EFGH-IJKL-MNOP",
+    "is_active": true,
+    "expiry_date": "2025-09-29",
+    "activate_date": "2024-09-24",
+    "days": 5,
+    "device_id": "gvvx2zZoZ5Ffdr5lVoys"
+  },
+  {
+    "key": "WXYZ-1234-5678-ABCD",
+    "is_active": false,
+    "expiry_date": "2024-09-25",
+    "activate_date": "2024-09-24",
+    "days": 1,
+    "device_id": ""
+  }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
