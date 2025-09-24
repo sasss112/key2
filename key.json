@@ -5,7 +5,7 @@
     "expiry_date": "2025-09-29",
     "activate_date": "2024-09-24",
     "days": 5,
-    "device_id": "gvvx2zZoZ5Ffdr5lVoys"
+    "device_id": ""
   },
   {
     "key": "WXYZ-1234-5678-ABCD",
@@ -16,3 +16,4 @@
     "device_id": ""
   }
 ]
+
