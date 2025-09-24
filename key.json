@@ -14,8 +14,17 @@
     "activate_date": "2024-09-24",
     "days": 1,
     "device_id": "ElK24j2E3hTZmGDYYc3x"
+  },
+  {
+    "key": "DDDD-CCCC-FFFF-AAAA",
+    "is_active": true,
+    "expiry_date": "2024-09-25",
+    "activate_date": "2024-09-24",
+    "days": 1,
+    "device_id": "rFr2qleabhAuEVvMnCAu"
   }
 ]
+
 
 
 
