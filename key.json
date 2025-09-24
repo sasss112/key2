@@ -12,5 +12,13 @@
         "expiry_date": "2025-10-15",
         "days": 30,
         "is_active": true
+    },
+    {
+        "key": "FDFS-FKKS-GKJV-KFLO",
+        "activate_date": "2025-09-24",
+        "expiry_date": "2025-10-24",
+        "days": 30,
+        "is_active": true
     }
 ]
+
