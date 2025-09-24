@@ -1,7 +1,7 @@
 [
   {
     "key": "ABCD-EFGH-IJKL-MNOP",
-    "is_active": true,
+    "is_active": false,
     "expiry_date": "2025-09-29",
     "activate_date": "2024-09-24",
     "days": 5,
@@ -16,4 +16,5 @@
     "device_id": ""
   }
 ]
+
 
