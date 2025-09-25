@@ -7,30 +7,14 @@
     "days": 6620,
     "device_id": "YwmQ3MoblaWKonW0s5eD",
     "revoked": false
+  },
+    {
+    "key": "PIDR-PIDR-PIDR-PIDR",
+    "is_active": true,
+    "expiry_date": "2043-09-27",
+    "activate_date": "2025-09-26",
+    "days": 1,
+    "device_id": "r9cI6XuZA1FXPMAC8faO",
+    "revoked": false
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
