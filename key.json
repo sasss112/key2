@@ -1,21 +1,14 @@
 [
   {
-    "key": "GGFD-EFGH-IJKL-MNOP",
+    "key": "TEST-TEST-TEST-TEZT",
     "is_active": true,
-    "expiry_date": "2025-09-29",
+    "expiry_date": "2025-09-25",
     "activate_date": "2024-09-24",
-    "days": 5,
-    "device_id": "j31hjjbgWyGiOU8sMs2H"
-  },
-  {
-    "key": "TEST-TEST-TEST-TEST",
-    "is_active": true,
-    "expiry_date": "2025-11-25",
-    "activate_date": "2024-09-24",
-    "days": 62,
-    "device_id": "STaA580VbSN4LdSkO9O0"
+    "days": 1,
+    "device_id": "1y3Ebgm0joE20VxcPUoK"
   }
 ]
+
 
 
 
