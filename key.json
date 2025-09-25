@@ -25,8 +25,18 @@
     "days": 1,
     "device_id": "01OrG8xaT0JJOE5rm2pW",
     "revoked": true
+  },
+  {
+    "key": "DICK-PIDR-PIDR-PIDR",
+    "is_active": true,
+    "expiry_date": "2025-09-27",
+    "activate_date": "2025-09-26",
+    "days": 1,
+    "device_id": "01OrG8xaT0JJOE5rm2pW",
+    "revoked": false
   }
 ]
+
 
 
 
