@@ -25,8 +25,18 @@
     "days": 1,
     "device_id": "jwZS2GXt6HC7iSPEyTj3",
     "revoked": false
+  },
+    {
+    "key": "DICK-PICK-SICK-DICK",
+    "is_active": true,
+    "expiry_date": "2025-09-27",
+    "activate_date": "2025-09-26",
+    "days": 1,
+    "device_id": "jwZS2GXt6HC7iSPEyTj3",
+    "revoked": false
   }
 ]
+
 
 
 
