@@ -17,13 +17,14 @@
   },
     {
     "key": "NATO-NATO-NATO-NATO",
-    "is_active": false,
+    "is_active": true,
     "expiry_date": "2025-09-26",
     "activate_date": "2025-09-27",
     "days": 0,
     "device_id": "none"
   }
 ]
+
 
 
 
