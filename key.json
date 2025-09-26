@@ -5,46 +5,11 @@
     "expiry_date": "2025-09-27",
     "activate_date": "2025-09-26",
     "days": 1,
-    "device_id": "6PXup9UgF1mVajoSS0EN",
-    "revoked": true
-  },
-   {
-    "key": "PPTX-WORD-EXEL-CSSS",
-    "is_active": true,
-    "expiry_date": "2025-09-27",
-    "activate_date": "2025-09-26",
-    "days": 1,
-    "device_id": "6PXup9UgF1mVajoSS0EN",
-    "revoked": false
-  }, 
-  {
-    "key": "DDDD-PIDR-PIDR-PIDR",
-    "is_active": true,
-    "expiry_date": "2025-09-28",
-    "activate_date": "2025-09-26",
-    "days": 2,
-    "device_id": "6PXup9UgF1mVajoSS0EN",
-    "revoked": false
-  }, 
-  {
-    "key": "BBDF-FLDK-NBMS-GLLM",
-    "is_active": true,
-    "expiry_date": "2025-10-26",
-    "activate_date": "2025-09-26",
-    "days": 30,
-    "device_id": "RpCvV2BCiBKvEPQOYFHB",
-    "revoked": false
-  }, 
-  {
-    "key": "CCMS-PPSK-BNDF-MNNG",
-    "is_active": true,
-    "expiry_date": "2025-09-27",
-    "activate_date": "2025-09-26",
-    "days": 1,
     "device_id": "RpCvV2BCiBKvEPQOYFHB",
     "revoked": true
   }
 ]
+
 
 
 
