@@ -25,7 +25,17 @@
     "days": 2,
     "device_id": "6PXup9UgF1mVajoSS0EN",
     "revoked": false
+  }, 
+  {
+    "key": "BBDF-FLDK-NBMS-GLLM",
+    "is_active": true,
+    "expiry_date": "2025-10-26",
+    "activate_date": "2025-09-26",
+    "days": 30,
+    "device_id": "RpCVV2BCIBKVEPQOYFHB",
+    "revoked": false
   }
 ]
+
 
 
