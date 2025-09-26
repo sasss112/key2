@@ -7,7 +7,16 @@
     "days": 1,
     "device_id": "6PXup9UgF1mVajoSS0EN",
     "revoked": true
-  },  
+  },
+   {
+    "key": "PPTX-WORD-EXEL-CSSS",
+    "is_active": true,
+    "expiry_date": "2025-09-27",
+    "activate_date": "2025-09-26",
+    "days": 1,
+    "device_id": "6PXup9UgF1mVajoSS0EN",
+    "revoked": false
+  }, 
   {
     "key": "DDDD-PIDR-PIDR-PIDR",
     "is_active": true,
@@ -18,4 +27,5 @@
     "revoked": false
   }
 ]
+
 
