@@ -33,7 +33,7 @@
     "activate_date": "2025-09-26",
     "days": 30,
     "device_id": "RpCvV2BCiBKvEPQOYFHB",
-    "revoked": true
+    "revoked": false
   }, 
   {
     "key": "CCMS-PPSK-BNDF-MNNG",
@@ -45,5 +45,6 @@
     "revoked": true
   }
 ]
+
 
 
