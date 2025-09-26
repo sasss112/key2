@@ -2,16 +2,10 @@
   {
     "key": "PIDR-PIDR-PIDR-PIDR",
     "is_active": true,
-    "expiry_date": "2025-09-28",
+    "expiry_date": "2025-09-31",
     "activate_date": "2025-09-26",
-    "days": 2,
+    "days": 5,
     "device_id": "RpCvV2BCiBKvEPQOYFHB",
     "revoked": false
   }
 ]
-
-
-
-
-
-
