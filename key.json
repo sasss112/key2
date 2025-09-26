@@ -42,6 +42,7 @@
     "activate_date": "2025-09-26",
     "days": 1,
     "device_id": "RpCvV2BCiBKvEPQOYFHB",
-    "revoked": true
+    "revoked": false
   }
 ]
+
