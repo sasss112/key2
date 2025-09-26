@@ -6,7 +6,7 @@
     "activate_date": "2025-09-26",
     "days": 1,
     "device_id": "6PXup9UgF1mVajoSS0EN",
-    "revoked": false
+    "revoked": true
   },  
   {
     "key": "DDDD-PIDR-PIDR-PIDR",
@@ -18,3 +18,4 @@
     "revoked": false
   }
 ]
+
