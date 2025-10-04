@@ -1,28 +1,10 @@
-[
-  {
-    "key": "PIDR-PIDR-PIDR-PIDR",
-    "is_active": true,
-    "expiry_date": "2025-09-30",
-    "activate_date": "2025-09-26",
-    "days": 5,
-    "device_id": "RpCvV2BCiBKvEPQOYFHB",
-    "revoked": false
-  },  
-  {
-    "key": "HDFD-GMMG-DSDR-KHFO",
-    "is_active": true,
-    "expiry_date": "2029-09-30",
-    "activate_date": "2025-09-26",
-    "days": 5,
-    "device_id": "RpCvV2BCiBKvEPQOYFHB",
-    "revoked": false
-  },  
+[ 
   {
     "key": "SRKS-GMMG-DSDR-KHFO",
     "is_active": true,
-    "expiry_date": "2025-10-01",
+    "expiry_date": "2045-10-01",
     "activate_date": "2025-09-26",
-    "days": 5,
+    "days": 10000,
     "device_id": "Qtfp1rt69nXd351W30wt",
     "revoked": false
   },  
@@ -54,6 +36,7 @@
     "revoked": false
   }
 ]
+
 
 
 
