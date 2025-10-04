@@ -43,8 +43,18 @@
     "days": 90,
     "device_id": "a5irKL25mqEo145o9YuH",
     "revoked": false
+  },  
+  {
+    "key": "MISD-CLLS-GLVB-CZVS",
+    "is_active": true,
+    "expiry_date": "2025-11-04",
+    "activate_date": "2025-10-04",
+    "days": 30,
+    "device_id": "SG61Mkg7FxUSoZO1RYZ",
+    "revoked": false
   }
 ]
+
 
 
 
