@@ -34,8 +34,18 @@
     "days": 30,
     "device_id": "SG61Mkg7FxUSoZO1iRYZ",
     "revoked": false
+  },  
+  {
+    "key": "DSSO-MVAI-VMAL-DNAG",
+    "is_active": true,
+    "expiry_date": "2025-11-04",
+    "activate_date": "2025-10-04",
+    "days": 30,
+    "device_id": "SIgIcZU45A8YQYhGWyCh",
+    "revoked": false
   }
 ]
+
 
 
 
